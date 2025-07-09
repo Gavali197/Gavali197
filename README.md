@@ -1,44 +1,60 @@
-# Hi there, I'm [Your Name] 👋
-
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?style=social)](https://github.com/YourUsername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitter?style=social)](https://twitter.com/YourTwitter)
-
-🔭 **Currently working on:** [Brief project description]  
-🌱 **Learning:** [Current learning focus, e.g., "Advanced Machine Learning"]  
-💬 **Ask me about:** [Your expertise, e.g., "React, Python, Data Science"]  
-⚡ **Fun fact:** [Something interesting about you]
+<h1 align="center">Hi 👋, I'm Hemant Gavali</h1>
+<h3 align="center">A passionate Full-Stack Developer | MERN Stack | Future Armed Forces Aspirant 🇮🇳</h3>
 
 ---
 
-### 🛠️ Tech Stack
+🌟 **About Me**
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-
-**Frameworks:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+- 🔭 I’m currently working on **React + Node.js Projects**
+- 🎯 Preparing for **Indian Armed Forces & Competitive Exams**
+- 🌱 I’m currently learning **DSA in Java** and **System Design**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
+- 🧠 Learning goal: Build discipline through code & fitness
+- ⚡ Fun fact: I can debug code while doing pushups 😄
 
 ---
 
-### 📌 Pinned Projects
+🛠️ **Tech Stack**
 
-1. **[Project Name](https://github.com/YourUsername/ProjectRepo)**  
-   📝 Short description.  
-   ![Tech](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![Tech](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-
-2. **[Another Project](https://github.com/YourUsername/AnotherRepo)**  
-   📝 Short description.  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-### 📫 Reach Me
+📊 **GitHub Stats**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemantgavali&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hemantgavali&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+🚀 **My Projects**
+
+- 🔗 [Project 1: Admin Dashboard](https://github.com/hemantgavali/admin-dashboard)
+- 🔗 [Project 2: Portfolio Website](https://github.com/hemantgavali/portfolio)
+- 🔗 [Project 3: To-Do App (React)](https://github.com/hemantgavali/todo-react)
+
+---
+
+📫 **Connect With Me**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemantgavali)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+
+---
+
+🧠 **Quote to Live By**
+
+> “Discipline is choosing between what you want now and what you want most.”
+
+---
