@@ -1,9 +1,9 @@
 ### 👋 Namaste, I'm Hemant Gavali
 
 <h1 align="center">Hemant here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">MERN Stack Developer | Learning Data Structures & Algorithms | Passionate About Code & Discipline 💻⚔️</h3>
+<h3 align="center">MERN Stack Developer | Practicing DSA Daily | Focused on Backend & Problem Solving</h3>
 
-<img align="right" src="https://i.pinimg.com/originals/2f/63/41/2f6341078ffac67b3407f1d7e9e53f5c.gif" width="350" />
+<img align="right" src="https://i.pinimg.com/originals/2f/63/41/2f6341078ffac67b3407f1d7e9e53f5c.gif" width="0" />
 
 ---
 
@@ -17,33 +17,25 @@
 
 📩 Ask me about: Full Stack Development, DSA practice tips, backend logicMERN stack, DSA problems, preparation routines
 
-🧠 Interests: Artificial Intelligence, System Design, Military Strategy, Self-Discipline
+🧠 Interests: Artificial Intelligence, System Design, Self-Discipline
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,java,python,git,github,vscode,figma,bootstrap,tailwind,linux,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode,figma,bootstrap,tailwind,linux,postgres,postman" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-REST%20API-black?style=flat-square&logo=api&logoColor=white">
-  <img src="https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white">
-  <img src="https://img.shields.io/badge/-Socket.IO-black?style=flat-square&logo=socketdotio&logoColor=white">
-  <img src="https://img.shields.io/badge/-Realtime%20Chat-black?style=flat-square&logo=wechat&logoColor=white">
-  <img src="https://img.shields.io/badge/-Cloudinary-black?style=flat-square&logo=cloudinary&logoColor=white">
-  <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&logoColor=white">
-</p>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemantgavali&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hemantgavali&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantgavali&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gavali197&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gavali197&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavali197&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -52,8 +44,8 @@
 
 | Project | Description |
 |--------|-------------|
-| [Admin Panel](https://github.com/hemantgavali/admin-dashboard) | Full-featured React+Express admin dashboard |
-| [To-Do App](https://github.com/hemantgavali/todo-react) | Simple React-based task tracker |
+| [Online Garage ](https://github.com/Gavali197/Online-Garage-website-MERN-.git) | Full Fetured Project Useing Mern Stack Last Year College Project Admin + Dashboard |
+| [Job portal](https://github.com/Gavali197/Job-portal-last-year.git) | Recruiter + Employer And Dashboard Manage by admin Advance feture Job Portal Website |
 | [Portfolio](https://github.com/hemantgavali/portfolio) | Personal portfolio using HTML/CSS/JS |
 | [Fitness Tracker](https://github.com/hemantgavali/fit-tracker) | Track workouts and daily routines |
 
@@ -65,26 +57,38 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+### ✨ Real-Time Interaction & Fun
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Zby3gSKzMJqvyq6t3N/giphy.gif" width="420" />
+</p>
+
+<p align="center">
+  <b>Here's a smile and a handshake for every coder out there 👋😄🤝</b>
+  <br />
+  <i>Because collaboration, kindness, and good vibes matter in tech and life.</i>
 </p>
 
 ---
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemantgavali)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemant-gavali197)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hemantgavali1272@gmail.com)
 
 ---
 
@@ -104,14 +108,34 @@ If you liked my profile or found my projects helpful:
 
 ---
 
+### 💻 DSA Practice Highlights
+
+<p>
+  📌 I’m consistently solving DSA problems on platforms like LeetCode, focusing on:
+  <br>• Arrays, Strings, Linked Lists, Trees, Graphs
+  <br>• Binary Search, Recursion, Sliding Window, DP
+  <br>• Java is my main language for DSA.
+  <br><br>
+  🧠 My DSA Goals:
+  <ul>
+    <li>500+ LeetCode problems in 2025</li>
+    <li>Master core patterns: Two Pointers, Backtracking, Greedy</li>
+    <li>Daily revision through notes and spaced repetition</li>
+  </ul>
+</p>
+
+---
+
 ### 🧠 LeetCode Profile & Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/hemantgavali?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/ariseDev?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
 
 ### 📅 GitHub Contribution Graph
 
-![Hemant's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hemantgavali&theme=tokyo-night&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gavali197&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
