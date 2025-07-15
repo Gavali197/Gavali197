@@ -70,7 +70,7 @@
 
 ---
 
-### ✨ Real-Time Interaction & Fun
+### ✨ Real-Time Interaction
 
 <p align="center">
   <img src="https://media.giphy.com/media/Zby3gSKzMJqvyq6t3N/giphy.gif" width="420" />
@@ -139,3 +139,4 @@ If you liked my profile or found my projects helpful:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gavali197&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+Hemant Gavali 
