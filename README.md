@@ -33,11 +33,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gavali197&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gavali197&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavali197&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gavali197&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gavali197&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavali197&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ### 📌 Featured Projects
@@ -139,4 +138,4 @@ If you liked my profile or found my projects helpful:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gavali197&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-Hemant Gavali 
+
