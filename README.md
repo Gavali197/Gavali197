@@ -33,10 +33,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gavali197&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gavali197&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavali197&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gavali197&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gavali197&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gavali197&theme=tokyonight" />
 </p>
+
 ---
 
 ### 📌 Featured Projects
