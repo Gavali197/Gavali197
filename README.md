@@ -30,12 +30,13 @@
 
 ---
 
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gavali197&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gavali197&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gavali197&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gavali197&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gavali197&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavali197&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -70,16 +71,20 @@
 
 ---
 
-### ✨ Real-Time Interaction
+
+
+### ✨ Real-Time Interaction & Fun
+
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Zby3gSKzMJqvyq6t3N/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
 
 <p align="center">
-  <b>Here's a smile and a handshake for every coder out there 👋😄🤝</b>
+  <b>💡 Fueled by clean code, deep focus, and positive energy</b>
   <br />
-  <i>Because collaboration, kindness, and good vibes matter in tech and life.</i>
+  <i>Whether debugging late at night or pushing commits at dawn — I'm always building towards something bigger.</i>
 </p>
 
 ---
@@ -104,7 +109,7 @@
 
 If you liked my profile or found my projects helpful:
 
-<a href="https://www.buymeacoffee.com/yourlink"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hemantgavali&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/yourlink"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=gavali197&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ---
 
