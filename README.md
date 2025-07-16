@@ -30,14 +30,16 @@
 
 ---
 
+<h2 align="center">📈 GitHub Stats</h2>
 
-### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=gavali197&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=gavali197&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavali197&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gavali197&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gavali197&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavali197&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -89,11 +91,19 @@
 
 ---
 
-### 🔗 Connect With Me
+<h3 align="center">📬 Connect With Me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemant-gavali197)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hemantgavali1272@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/hemant-gavali197" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:hemantgavali1272@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -109,7 +119,12 @@
 
 If you liked my profile or found my projects helpful:
 
-<a href="https://www.buymeacoffee.com/yourlink"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=gavali197&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/gavali197" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+  </a>
+</p>
+
 
 ---
 
