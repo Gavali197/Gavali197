@@ -146,7 +146,7 @@ If you liked my profile or found my projects helpful:
 
 ---
 
-### 🧠 LeetCode Profile 
+### 🧠 LeetCode Profile & States
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ariseDev?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
