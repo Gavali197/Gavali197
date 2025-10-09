@@ -1,4 +1,5 @@
-### 👋 Namaste, I'm Hemant gavali
+### 👋 Namaste, I'm Hemant g
+
 
 <h1 align="center">Hemant Gavali here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">MERN Stack Developer | Practicing DSA Daily | Focused on Backend & Problem Solving</h3>
