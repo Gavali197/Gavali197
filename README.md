@@ -9,7 +9,7 @@
 ---
 
 
-### 🧑‍💻 About Me for 
+### 🧑‍💻 About Me for...
 
 - 🌐 I am a Full Stack Developer (MERN Stack)
 - 🧠 Currently learning & practicing Data Structures and Algorithms (DSA)
