@@ -1,7 +1,7 @@
 ### 👋 Namaste, I'm Hemant Gavali 
 
 
-<h1 align="center">Hemant gavali here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hemant here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">MERN Stack Developer | Practicing DSA Daily | Focused on Backend & Problem Solving</h3>
 
 <img align="right" src="https://i.pinimg.com/originals/2f/63/41/2f6341078ffac67b3407f1d7e9e53f5c.gif" width="0" />
