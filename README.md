@@ -1,20 +1,23 @@
 ### 👋 Namaste, I'm Hemant Gavali.
 
 <h1 align="center">Hemant Gavali here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">MERN Stack Developer | Practicing DSA Daily | Focused on Backend & Problem Solving</h3>
+<h3 align="center">🚀 MERN Stack Developer | 🧠 DSA Practitioner | ⚙️ Backend-Focused Problem Solver</h3>
 
-<img align="right" src="https://i.pinimg.com/originals/2f/63/41/2f6341078ffac67b3407f1d7e9e53f5c.gif" width="0" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Enthusiast;DSA+Daily+Grind;Future+Tech+Leader" />
+</p>
+
+<!-- <img align="right" src="https://i.pinimg.com/originals/2f/63/41/2f6341078ffac67b3407f1d7e9e53f5c.gif" width="0" /> -->
 
 ---
 
 
 ### 🧑‍💻 About Me
 
-- 🌐 I am a Full Stack Developer (MERN Stack)
-- 🧠 Currently learning & practicing Data Structures and Algorithms (DSA)
-- 👨‍🎓 Recent graduate, focused on discipline, consistency & growth
-- 💂 Preparing for Armed Forces roles alongside tech career
-- ⚔️ Passion for real-world problem-solving and backend design
+- ✨ Passionate Full Stack Developer specializing in the **MERN Stack**  
+- 🧠 Practicing **Data Structures & Algorithms daily**  
+- 🎯 Focused on **backend engineering & real-world problem solving**   
+- 🔥 Strong believer in **discipline, consistency, and growth**
 
 📩 Ask me about: Full Stack Development, DSA practice tips, backend logicMERN stack, DSA problems, preparation routines
 
