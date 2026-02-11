@@ -3,11 +3,7 @@
 <h1 align="center">Hemant Gavali here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">🚀 MERN Stack Developer | 🧠 DSA Practitioner | ⚙️ Backend-Focused Problem Solver</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Enthusiast;DSA+Daily+Grind;Future+Tech+Leader" />
-</p>
-
-<!-- <img align="right" src="https://i.pinimg.com/originals/2f/63/41/2f6341078ffac67b3407f1d7e9e53f5c.gif" width="0" /> -->
+<img align="right" src="https://i.pinimg.com/originals/2f/63/41/2f6341078ffac67b3407f1d7e9e53f5c.gif" width="0" />
 
 ---
 
@@ -19,9 +15,9 @@
 - 🎯 Focused on **backend engineering & real-world problem solving**   
 - 🔥 Strong believer in **discipline, consistency, and growth**
 
-📩 Ask me about: Full Stack Development, DSA practice tips, backend logicMERN stack, DSA problems, preparation routines
+📩 Ask me about: Full Stack Development, DSA practice tips, backend logic MERN stack, DSA problems, preparation routines
 
-🧠 Interests: Artificial Intelligence, System Design, Self-Discipline
+🧠 Interests: Artificial Intelligence, System Design, Blockchain, Data Structure, Self-Discipline
 
 ---
 
@@ -37,7 +33,7 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=gavali197&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=gavali197&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br />
@@ -49,12 +45,13 @@
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| [Online Garage ](https://github.com/Gavali197/Online-Garage-website-MERN-.git) | Full Fetured Project Useing Mern Stack Last Year College Project Admin + Dashboard |
-| [Job portal](https://github.com/Gavali197/Job-portal-last-year.git) | Recruiter + Employer And Dashboard Manage by admin Advance feture Job Portal Website |
-| [Portfolio](https://github.com/hemantgavali/portfolio) | Personal portfolio using HTML/CSS/JS |
-| [Fitness Tracker](https://github.com/hemantgavali/fit-tracker) | Track workouts and daily routines |
+| 💼 Project                          | 📝 Description                                                                                                                                                 | 🛠️ Tech Stack                      | 🔗 Link                                                                  |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------ |
+| **Online Garage Management System** | A full-featured MERN application with Admin Dashboard to manage services, spare parts, bookings, and users. Designed as a complete real-world garage solution. | MongoDB • Express • React • Node.js | [View Project](https://github.com/Gavali197/Online-Garage-website-MERN-) |
+| **Job Portal Platform**             | Role-based job portal system with Recruiter and Student modules, including an Admin panel for platform management and job tracking.                            | MERN Stack                          | [View Project](https://github.com/Gavali197/Job-portal-last-year)        |
+| **Personal Portfolio Website**      | Responsive developer portfolio to showcase skills, projects, and contact details with a clean modern UI.                                                       | HTML • CSS • JavaScript             | [View Project](https://github.com/hemantgavali/portfolio)                |
+| **Fitness Tracker App**             | Web application for tracking daily workouts, exercise routines, and personal fitness progress.                                                                 | JavaScript • Frontend               | [View Project](https://github.com/hemantgavali/fit-tracker)              |
+|
 
 ---
 
