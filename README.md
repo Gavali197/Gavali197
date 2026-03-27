@@ -1,7 +1,7 @@
-### 👋 Namaste, I'm Hemant
+### 👋 Namaste, I'm Hemant Gavali
 
 <h1 align="center">Hemant Gavali here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">🚀 MERN Stack Developer | 🧠 DSA Practitioner | ⚙️ Backend-Focused Problem Solver</h3>
+<h3 align="center">🚀 MERN Stack Developer | 💡 Building Scalable Web Apps | 🧠 DSA & Problem Solving Enthusiast</h3>>
 
 <img align="right" src="https://i.pinimg.com/originals/2f/63/41/2f6341078ffac67b3407f1d7e9e53f5c.gif" width="0" />
 
@@ -17,7 +17,7 @@
 
 📩 Ask me about: Full Stack Development, DSA practice tips, backend logic MERN stack, DSA problems, preparation routines
 
-🧠 Interests: Artificial Intelligence, System Design, Blockchain, Data Structure, Self-Discipline
+🧠 Interests: Artificial Intelligence • System Design • Blockchain • Data Structures • Networking & Security • Digital Communication • Self-Discipline
 
 ---
 
@@ -29,17 +29,21 @@
 
 
 ---
-
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=gavali197&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavali197&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
 
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=gavali197&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=gavali197&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavali197&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
@@ -47,12 +51,11 @@
 
 | 💼 Project                          | 📝 Description                                                                                                                                                 | 🛠️ Tech Stack                      | 🔗 Link                                                                  |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------ |
-| **Online Garage Management System** | A full-featured MERN application with Admin Dashboard to manage services, spare parts, bookings, and users. Designed as a complete real-world garage solution. | MongoDB • Express • React • Node.js | [View Project](https://github.com/Gavali197/Online-Garage-website-MERN-) |
-| **Job Portal Platform**             | Role-based job portal system with Recruiter and Student modules, including an Admin panel for platform management and job tracking.                            | MERN Stack                          | [View Project](https://github.com/Gavali197/Job-portal-last-year)        |
-| **Personal Portfolio Website**      | Responsive developer portfolio to showcase skills, projects, and contact details with a clean modern UI.                                                       | HTML • CSS • JavaScript             | [View Project](https://github.com/hemantgavali/portfolio)                |
-| **Fitness Tracker App**             | Web application for tracking daily workouts, exercise routines, and personal fitness progress.                                                                 | JavaScript • Frontend               | [View Project](https://github.com/hemantgavali/fit-tracker)              |
-|
-
+| **Job Portal Platform**             | Role-based job portal system with Recruiter and Student modules, including an Admin panel for platform management and job tracking.                            | MERN Stack                          | [View Project](https://github.com/Gavali197/job_portal_project)        |
+| **Online Garage Management System** | A full-featured MERN application with Admin Dashboard to manage services, spare parts, bookings, and users. Designed as a complete real-world garage solution. | MongoDB • Express • React • Node.js | [View Project]([https://github.com/Gavali197/Online-Garage-website-MERN-](https://github.com/Gavali197/Garage-services-Stack)) |
+| **DSA Practice Repository** | Collection of Data Structures & Algorithms problems with solutions, covering arrays, strings, recursion, and more for interview preparation. | Java | [View Project](https://github.com/Gavali197/Java-learning-DSA) |
+| **MERN Stack Development Project** | Full-stack web application built using MongoDB, Express.js, React, and Node.js with authentication and CRUD functionality. | MERN Stack (MongoDB • Express • React • Node.js) | [View Project](https://github.com/Gavali197/FullStack-College) |
+| **Book Publication System**         | Java EE-based web application for managing book publications, including author details, publishing workflows, and data management features. | ⚡ Jakarta EE • JSF • JPA • Payara • MySQL ⚡ | [View Project](https://github.com/Gavali197/BookPublicationSystem-javaEE) |
 ---
 
 ### 🧰 Tech Stack
@@ -95,7 +98,7 @@
 <h3 align="center">📬 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hemant-gavali197" target="_blank">
+  <a href="https://linkedin.com/in/hemant197" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/yourprofile" target="_blank">
@@ -110,9 +113,11 @@
 
 ### 💬 Random Dev Quote
 
-> "Discipline is choosing between what you want now and what you want most." – Abraham Lincoln
+### 💬 Dev Mindset
 
-> "Sometimes the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function." — John Carmack
+> "Consistency beats talent when talent doesn’t show up daily."
+
+> "Build. Break. Learn. Repeat."
 
 ---
 
@@ -132,16 +137,21 @@ If you liked my profile or found my projects helpful:
 ### 💻 DSA Practice Highlights
 
 <p>
-  📌 I’m consistently solving DSA problems on platforms like LeetCode, focusing on:
-  <br>• Arrays, Strings, Linked Lists, Trees, Graphs
-  <br>• Binary Search, Recursion, Sliding Window, DP
-  <br>• Java is my main language for DSA.
+  📌 I’m consistently solving DSA problems on platforms like LeetCode, following a structured roadmap:
+  <br>• Building strong fundamentals using <a href="https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop">Apna College Java + DSA Course</a>
+  <br>• Solving problems from <a href="https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z">Striver’s A2Z DSA Sheet</a>
+  <br>• Topics covered: Arrays, Strings, Linked Lists, Trees, Graphs
+  <br>• Patterns: Binary Search, Recursion, Sliding Window, Dynamic Programming
+  <br>• Java is my primary language for DSA.
   <br><br>
+  
   🧠 My DSA Goals:
   <ul>
-    <li>500+ LeetCode problems in 2025</li>
+    <li>300+ LeetCode problems in 2026</li>
     <li>Master core patterns: Two Pointers, Backtracking, Greedy</li>
-    <li>Daily revision through notes and spaced repetition</li>
+    <li>Following a structured roadmap of 450+ curated problems</li>
+    <li>Strong fundamentals built from Apna College DSA series</li>
+    <li>Daily revision using notes & spaced repetition</li>
   </ul>
 </p>
 
