@@ -1,23 +1,23 @@
 ### 👋 Namaste, I'm Hemant Gavali
 
 <h1 align="center">Hemant Gavali here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">🚀 MERN Stack Developer | 💡 Building Scalable Web Apps | 🧠 DSA & Problem Solving Enthusiast</h3>>
 
-<img align="right" src="https://i.pinimg.com/originals/2f/63/41/2f6341078ffac67b3407f1d7e9e53f5c.gif" width="0" />
+<h3 align="center">🚀 MERN Stack Developer | 💡 Building Scalable Web Apps | 🧠 DSA & Problem Solving Enthusiast</h3>
 
 ---
 
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- ✨ Passionate Full Stack Developer specializing in the **MERN Stack**  
-- 🧠 Practicing **Data Structures & Algorithms daily**  
-- 🎯 Focused on **backend engineering & real-world problem solving**   
-- 🔥 Strong believer in **discipline, consistency, and growth**
+I'm a **passionate Full Stack Developer** who genuinely loves what he builds. I specialize in the **MERN Stack**, care deeply about clean backend logic, and show up every single day — whether it's pushing a new feature or solving DSA problems before the day starts.
 
-📩 Ask me about: Full Stack Development, DSA practice tips, backend logic MERN stack, DSA problems, preparation routines
+- 🔥 **Daily DSA practice** — structured, consistent, goal-driven
+- 🚀 **MERN Stack** — from idea to deployed product
+- 🧠 **Backend-focused** — APIs, auth, databases, real-world logic
+- 💡 Interested in **Blockchain, Networking & System Design**
+- 📈 Always improving — notes, revision, and spaced repetition daily
 
-🧠 Interests: Artificial Intelligence • System Design • Blockchain • Data Structures • Networking & Security • Digital Communication • Self-Discipline
+> *"Consistency beats talent when talent doesn't show up daily."*
 
 ---
 
@@ -27,22 +27,19 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode,figma,bootstrap,tailwind,linux,postgres,postman" />
 </p>
 
-
 ---
+
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
 
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=gavali197&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=gavali197&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavali197&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+  <br/>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gavali197&theme=tokyonight" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gavali197&theme=tokyonight" height="180em" />
+  </div>
 </div>
 
 ---
@@ -52,10 +49,10 @@
 | 💼 Project                          | 📝 Description                                                                                                                                                 | 🛠️ Tech Stack                      | 🔗 Link                                                                  |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------ |
 | **Job Portal Platform**             | Role-based job portal system with Recruiter and Student modules, including an Admin panel for platform management and job tracking.                            | MERN Stack                          | [View Project](https://github.com/Gavali197/job_portal_project)        |
-| **Online Garage Management System** | A full-featured MERN application with Admin Dashboard to manage services, spare parts, bookings, and users. Designed as a complete real-world garage solution. | MongoDB • Express • React • Node.js | [View Project]([https://github.com/Gavali197/Online-Garage-website-MERN-](https://github.com/Gavali197/Garage-services-Stack)) |
-| **DSA Practice Repository** | Collection of Data Structures & Algorithms problems with solutions, covering arrays, strings, recursion, and more for interview preparation. | Java | [View Project](https://github.com/Gavali197/Java-learning-DSA) |
+| **Online Garage Management System** | A full-featured MERN application with Admin Dashboard to manage services, spare parts, bookings, and users. Designed as a complete real-world garage solution. |  React • MongoDB • Express • Node.js | [View Project]([https://github.com/Gavali197/Garage-services-Stack](https://github.com/Gavali197/Garage-services-Stack) |
+| **DSA Practice Repository** | Collection of Data Structures & Algorithms problems with solutions, covering arrays, strings, recursion, and more for interview preparation. | Core Java | [View Project](https://github.com/Gavali197/Java-learning-DSA) |
 | **MERN Stack Development Project** | Full-stack web application built using MongoDB, Express.js, React, and Node.js with authentication and CRUD functionality. | MERN Stack (MongoDB • Express • React • Node.js) | [View Project](https://github.com/Gavali197/FullStack-College) |
-| **Book Publication System**         | Java EE-based web application for managing book publications, including author details, publishing workflows, and data management features. | ⚡ Jakarta EE • JSF • JPA • Payara • MySQL ⚡ | [View Project](https://github.com/Gavali197/BookPublicationSystem-javaEE) |
+| **Book Publication System**         | Java EE-based web application for managing book publications, including author details, publishing workflows, and data management features. |  Jakarta EE • JSF • JPA • Payara • MySQL  | [View Project](https://github.com/Gavali197/BookPublicationSystem-javaEE) |
 ---
 
 ### 🧰 Tech Stack
@@ -77,11 +74,7 @@
 
 ---
 
-
-
 ### ✨ Real-Time Interaction & Fun
-
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
@@ -109,6 +102,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gavali197&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ### 💬 Random Dev Quote
@@ -121,16 +118,11 @@
 
 ---
 
-### ☕ Support My Journey
-
-If you liked my profile or found my projects helpful:
+### 📅 GitHub Contribution Graph
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/gavali197" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-  </a>
-</p>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gavali197&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p
 
 ---
 
@@ -155,8 +147,6 @@ If you liked my profile or found my projects helpful:
   </ul>
 </p>
 
----
-
 ### 🧠 LeetCode Profile 
 
 <p align="center">
@@ -165,9 +155,17 @@ If you liked my profile or found my projects helpful:
 
 ---
 
-### 📅 GitHub Contribution Graph
+### ☕ Support My Journey
+
+If you liked my profile or found my projects helpful:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gavali197&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <a href="https://www.buymeacoffee.com/gavali197" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+  </a>
 </p>
+
+---
+
+
 
