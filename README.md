@@ -7,6 +7,7 @@
 ---
 
 
+
 ## 🧑‍💻 About Me
 
 I'm a **passionate Full Stack Developer** who genuinely loves what he builds. I specialize in the **MERN Stack**, care deeply about clean backend logic, and show up every single day — whether it's pushing a new feature or solving DSA problems before the day starts.
