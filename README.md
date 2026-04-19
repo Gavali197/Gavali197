@@ -28,6 +28,7 @@ I'm a **passionate Full Stack Developer** who genuinely loves what he builds. I 
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode,figma,bootstrap,tailwind,linux,postgres,postman" />
 </p>
 
+
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
