@@ -57,6 +57,7 @@ I'm a **passionate Full Stack Developer** who genuinely loves what he builds. I 
 | **DSA Practice Repository** | Collection of Data Structures & Algorithms problems with solutions, covering arrays, strings, recursion, and more for interview preparation. | Core Java | [View Project](https://github.com/Gavali197/Java-learning-DSA) |
 | **MERN Stack Development Project** | Full-stack web application built using MongoDB, Express.js, React, and Node.js with authentication and CRUD functionality. | MERN Stack (MongoDB • Express • React • Node.js) | [View Project](https://github.com/Gavali197/FullStack-College) |
 | **Book Publication System**         | Java EE-based web application for managing book publications, including author details, publishing workflows, and data management features. |  Jakarta EE • JSF • JPA • Payara • MySQL  | [View Project](https://github.com/Gavali197/BookPublicationSystem-javaEE) |
+| **City Care Hospital Management System** | Full-featured hospital management system with patient portal, clinical records, billing, Razorpay integration, and role-based access control. | ASP.NET Core MVC • .NET 8 • EF Core • SQL Server • Bootstrap 5 | [View Project](https://github.com/Gavali197/HospitalWebApp) |
 ---
 
 ### 🧰 Tech Stack
